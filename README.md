@@ -71,12 +71,18 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
+```
 
+```
 
 
 
 ## Output screen shots of proteus  :
+## LED ON :
+![exp3on](https://github.com/balaji-21005757/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94372294/29f450ba-8c62-4c8f-9f30-12d0729ab19a)
 
+## LED OFF:
+![exp3off](https://github.com/balaji-21005757/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94372294/853cd1a6-7531-4073-85ba-0296f2ed519e)
 
 
 
