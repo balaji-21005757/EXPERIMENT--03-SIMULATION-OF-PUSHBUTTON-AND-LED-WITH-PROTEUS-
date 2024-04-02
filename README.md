@@ -123,7 +123,8 @@ void blink_led()
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- ![image](https://github.com/balaji-21005757/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94372294/46c4dfde-95e9-4901-9acb-08663a74f91b)
+![image](https://github.com/balaji-21005757/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94372294/fe27345f-b9b5-4a6a-a82e-30223f05c346)
+
 
  
  
